@@ -1,0 +1,3755 @@
+{
+  "Dangerous Minds": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Dumbo": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Sleepers": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Escape from New York": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Nuovo Cinema Paradiso": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Deer Hunter": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Ben-Hur": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Gandhi": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Dracula": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Cape Fear": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Star Trek: The Motion Picture": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Beavis and Butt-Head Do America": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "The French Connection": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Tron": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Gods Must Be Crazy": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Willow": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Antz": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Fly": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Time Bandits": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Blazing Saddles": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "GoldenEye": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Sense and Sensibility": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Clueless": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Se7en": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Usual Suspects": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Mighty Aphrodite": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Mr. Holland's Opus": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Braveheart": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Brothers McMullen": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Apollo 13": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Batman Forever": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Crimson Tide": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Die Hard: With a Vengeance": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "First Knight": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Net": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Nine Months": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Waterworld": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Circle of Friends": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Clerks": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Disclosure": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Ed Wood": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Houseguest": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Interview with the Vampire": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Little Women": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Como agua para chocolate": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Legends of the Fall": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Madness of King George": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Frankenstein": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Outbreak": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Pulp Fiction": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Quiz Show": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Secret of Roan Inish": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Santa Clause": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Shallow Grave": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "While You Were Sleeping": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Clear and Present Danger": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Client": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Forrest Gump": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Four Weddings and a Funeral": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Lion King": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Mask": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Naked Gun 33⅓: The Final Insult": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "The Paper": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Reality Bites": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Speed": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Wolf": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Highlander III: The Sorcerer": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Addams Family Values": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Firm": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Fugitive": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Englishman Who Went Up a Hill But Came Down a Mountain": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "In the Line of Fire": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Jurassic Park": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Last Action Hero": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Much Ado About Nothing": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Mrs. Doubtfire": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Philadelphia": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Piano": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Remains of the Day": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Schindler's List": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Sirens": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Sleepless in Seattle": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Threesome": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Nightmare Before Christmas": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Three Musketeers": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Brady Bunch Movie": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Home Alone": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Ghost": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Aladdin": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Terminator 2: Judgment Day": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Dances with Wolves": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Batman": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Silence of the Lambs": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Aristocats": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "James and the Giant Peach": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "ImdbId não encontrado": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Indian in the Cupboard": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Heavenly Creatures": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Major Payne": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Shawshank Redemption": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Flintstones": [
+    2.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Beauty and the Beast": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Twister": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Trainspotting": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Bound": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Princess Bride": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Return of the Jedi": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Harold and Maude": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Fried Green Tomatoes": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Young Guns": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Men in Black": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Titanic": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Fear and Loathing in Las Vegas": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Saving Private Ryan": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Happiness": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Pet Sematary": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Big Daddy": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Summer of Sam": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Ghostbusters": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Sixth Sense": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Stir of Echoes": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "American Beauty": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Fight Club": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Encino Man": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Frequency": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Requiem for a Dream": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Spider-Man": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Bowling for Columbine": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Finding Nemo": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Lord of the Rings: The Return of the King": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Eternal Sunshine of the Spotless Mind": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Fahrenheit 9/11": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Spider-Man 2": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Is It Fall Yet?": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "V for Vendetta": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Flags of Our Fathers": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Letters from Iwo Jima": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Dark Knight": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The White Stripes: Under Great White Northern Lights": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Babe": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "紅番區": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Birdcage": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Judge Dredd": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Star Wars": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Only You": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Star Trek: Generations": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "True Lies": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Carlito's Way": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Cliffhanger": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Coneheads": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Dave": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Demolition Man": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Hard Target": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Blade Runner": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Snow White and the Seven Dwarfs": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Pinocchio": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Heavy Metal": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Godfather": [
+    2.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Vertigo": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Some Like It Hot": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Maltese Falcon": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Wizard of Oz": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Herbie Rides Again": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Shaggy Dog": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Cinderella": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Mary Poppins": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Pete's Dragon": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Bedknobs and Broomsticks": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Alice in Wonderland": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Fox and the Hound": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Die Hard": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Willy Wonka & the Chocolate Factory": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "A Fish Called Wanda": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Reservoir Dogs": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "E.T. the Extra-Terrestrial": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Return of the Pink Panther": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Abyss": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Monty Python and the Holy Grail": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Up in Smoke": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Empire Strikes Back": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Raiders of the Lost Ark": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Aliens": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "A Clockwork Orange": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Apocalypse Now": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "GoodFellas": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Alien": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Psycho": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Blues Brothers": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Full Metal Jacket": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Amadeus": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Annie Hall": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Terminator": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Rosencrantz & Guildenstern Are Dead": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Better Off Dead...": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Shining": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Stand by Me": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Groundhog Day": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Back to the Future": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Young Frankenstein": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Fantasia": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Heathers": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "This Is Spinal Tap": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Indiana Jones and the Last Crusade": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Pink Floyd: The Wall": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "When Harry Met Sally...": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Believers": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Blob": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Star Trek: First Contact": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Star Trek VI: The Undiscovered Country": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Star Trek II: The Wrath of Khan": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Star Trek IV: The Voyage Home": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Batman Returns": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Grease": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Jaws": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Jaws 2": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Sneakers": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Lost World: Jurassic Park": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Stripes": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Witness": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Wild Things": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "一個好人": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Armageddon": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Lethal Weapon 4": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Rocky": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Rain Man": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Labyrinth": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Breakfast Club": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Poltergeist": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Lethal Weapon": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Lethal Weapon 3": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Gremlins": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "The Goonies": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Freaky Friday": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Bambi": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Dangerous Liaisons": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Dune": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Black Cauldron": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Black Hole": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Flight of the Navigator": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Honey, I Shrunk the Kids": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Roger & Me": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Jungle Book": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Lady and the Tramp": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Little Mermaid": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "One Hundred and One Dalmatians": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "One Magic Christmas": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Peter Pan": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Return from Witch Mountain": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Rocketeer": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Sleeping Beauty": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Splash": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Steamboat Willie": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Jerk": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Dead Men Don't Wear Plaid": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Outsiders": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Indiana Jones and the Temple of Doom": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Addams Family": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Dark Crystal": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "An American Tail": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Legend": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Sixteen Candles": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Neverending Story": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Beetlejuice": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Untouchables": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Say Anything...": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Seventh Sign": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "A Few Good Men": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Player": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Sid & Nancy": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Fletch": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "First Blood": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Romancing the Stone": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Rocky II": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Name of the Rose": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Dead Ringers": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Dick Tracy": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Star Wars: Episode I - The Phantom Menace": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Superman": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "It Came from Hollywood": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Austin Powers: The Spy Who Shagged Me": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Arachnophobia": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Mystery Men": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Mosquito Coast": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Bowfinger": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "And Now for Something Completely Different": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Airplane!": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "National Lampoon's Vacation": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Big": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "A Christmas Story": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Medicine Man": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Fright Night": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Excalibur": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Tommy": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Psycho II": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Psycho III": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Total Recall": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Ferris Bueller's Day Off": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "RoboCop 2": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Who Framed Roger Rabbit": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Live and Let Die": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Creepshow": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Robin Hood": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Trading Places": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Meatballs": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Commitments": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Stand and Deliver": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Fatal Attraction": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Midnight Run": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Fisher King": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Falcon and the Snowman": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "National Lampoon's Loaded Weapon 1": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Fast Times at Ridgemont High": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Agnes of God": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "A League of Their Own": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "White Men Can't Jump": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "辣手神探": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Transformers: The Movie": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Grumpier Old Men": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Happy Gilmore": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Dumb and Dumber": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Miracle on 34th Street": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Ace Ventura: Pet Detective": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Pretty Woman": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Nutty Professor": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Sound of Music": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "One Flew Over the Cuckoo's Nest": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Godfather: Part II": [
+    2.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Graduate": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Jerry Maguire": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Liar Liar": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Truman Show": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Wedding Singer": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "As Good as It Gets": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "There's Something About Mary": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Exorcist": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Godfather: Part III": [
+    1.5,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Rush Hour": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "A Bug's Life": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "You've Got Mail": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Office Space": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "American Pie": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Being John Malkovich": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Toy Story 2": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Talented Mr. Ripley": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Erin Brockovich": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Patriot": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Almost Famous": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Meet the Parents": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Chocolat": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "What Women Want": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Cast Away": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Miss Congeniality": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Shrek": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Moulin Rouge!": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Legally Blonde": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "American Pie 2": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Ocean's Eleven": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "A Beautiful Mind": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Panic Room": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "My Big Fat Greek Wedding": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Road to Perdition": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Ring": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Harry Potter and the Chamber of Secrets": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "The Pianist": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Bend It Like Beckham": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Bruce Almighty": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "28 Days Later": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Lost in Translation": [
+    2.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Love Actually": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Napoleon Dynamite": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Super Size Me": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "I, Robot": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Million Dollar Baby": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Hotel Rwanda": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Charlie and the Chocolate Factory": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Crash": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Mr. & Mrs. Smith": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Wedding Crashers": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The 40 Year Old Virgin": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Walk the Line": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "King Kong": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Taxi Driver": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Casper": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Léon": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Lawrence of Arabia": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Bridge on the River Kwai": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Cool Hand Luke": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Sling Blade": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Chasing Amy": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "The Jackal": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Wag the Dog": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Deep Impact": [
+    0.5,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "The X Files": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Lethal Weapon 2": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "七人の侍": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The 'Burbs": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Logan's Run": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Planet of the Apes": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Matrix": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "The Rocky Horror Picture Show": [
+    2.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Lola rennt": [
+    4.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "The Iron Giant": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Three Kings": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Dogma": [
+    1.0,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Pitch Black": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Chicken Run": [
+    1.5,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Ghost World": [
+    1.5,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "Vanilla Sky": [
+    1.5,
+    [
+      0.0,
+      0.0,
+      100.0
+    ],
+    "ODIADO"
+  ],
+  "The Lord of the Rings: The Two Towers": [
+    5.0,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "英雄": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Harry Potter and the Prisoner of Azkaban": [
+    3.5,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Garden State": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Shaun of the Dead": [
+    4.5,
+    [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "ACLAMADO"
+  ],
+  "Toy Story": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ],
+  "Get Shorty": [
+    3.0,
+    [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "REGULAR"
+  ]
+}
